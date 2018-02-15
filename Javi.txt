@@ -1,1 +1,1 @@
-Coke is clearly superior to Pepsi = Boolean 
+Coke is clearly superior to Pepsi = True 
